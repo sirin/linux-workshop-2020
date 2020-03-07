@@ -49,7 +49,7 @@ Atölyenin ana amacı, IDE'de yazılan kodun IDE dışında çalıştığı orta
 * [Şirin Saygılı](https://www.linkedin.com/in/sirinnes/) Prisync'in kurucu ortağı ve yazılım geliştirme yöneticisidir. İTÜ Bilgisayar Mühendisliği'nden lisans, Galatasaray Üniversitesi Bilgisayar Mühendisliği'nden yüksek lisans derecesi bulunmaktadır. Temel olarak ilgilendiği alanlar verinin elde edinilmesi (information retrieval), verinin işlenmesi ve bu verinin bilgiye dönüştürülmesidir. Çeşitli gönüllü kodlama etkinliklerinin organizasyonunda yer almıştır.
 * [Melek Kalyoncu](https://www.linkedin.com/in/melek-kalyoncu-66ba83b0/)
 * [Meltem Dizdar](https://www.linkedin.com/in/meltem-dizdar/)
-* [İlknur Tepe](https://www.linkedin.com/in/ilknurtepe/)
+* [İlknur Tepe](https://www.linkedin.com/in/ilknurtepe/) Mimar Sinan Güzel Sanatlar Üniversitesi İstatistik mezunudur. OptiWisdom'da Product Manager olarak görev almaktadır. Kuantum programlama ve veri bilimi konularına ilgilidir.
 
 ## Mekan
 * Atölye, [Prisync ofisinde](https://www.google.com/maps/search/Prisync,+Esentepe,+Kore+%C5%9Eehitleri+Cd.+No:34%2F3,+34394+%C5%9Ei%C5%9Fli%2F%C4%B0stanbul,+Turkey?hl=en) gerçekleştirilecektir.
