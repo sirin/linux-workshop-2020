@@ -7,7 +7,7 @@ Atölyenin ana amacı, IDE'de yazılan kodun IDE dışında çalıştığı orta
 
 * Katılım ücretsiz olup, isteyen katlımcılarla sokak hayvanlarına [PADER](https://www.patilicanlar.org/) aracılığıyla mama bağışı yapılacaktır.
 * Atölye kontenjanı __20__ kişilik olup, __büyük bir kısmı kadın katılımcılara ayrılmıştır__.
-* Katılımcı kitlesi olarak, aktif şekilde yazılım geliştiren kariyerinin erken dönemindeki kişiler hedeflenmektedir. (Yakın zamanda mezun olmuş veya yakın zamanda mezun olacak kişiler.)
+* Katılımcı kitlesi olarak, aktif şekilde yazılım geliştiren ve kariyerinin erken dönemindeki kişiler hedeflenmektedir. (Yakın zamanda mezun olmuş veya yakın zamanda mezun olacak kişiler.)
 * Katılımcıların başlangıç seviyesinde komut satırı kullanabilmeleri beklenmektedir, shell script harici bir programlama dili kullanılmayacağı için herhangi bir programlama dili şartı gerekmemektedir.
 * Katılımcıların içerisinde Linux işletim sistemi bulunan kendi bilgisayarlarını getirmeleri gerekmektedir. (MacOS makineler de olur.)
 * Her katılımcıya özel sadece atölye süresi içinde kullanılabilecek, bulut üzerinde yer alan bir Linux makineye erişim verilecektir. (Yine de bilgisayarınızı getirmeniz gerekmektedir.)
@@ -36,19 +36,23 @@ Atölyenin ana amacı, IDE'de yazılan kodun IDE dışında çalıştığı orta
 
 
 ## Başvuru formu
-* Başvuru formuna buradan ulaşabilirsiniz. Yakında eklenecektir.
+* Son başvuru tarihi 15 Mart 2020 Pazar 23:59'dur.
+* [BAŞVURU FORMU](https://forms.gle/V4mneKnef3XEnGSR9) 
 
 
 ## Notlar
-* __Katılımcılara sağlanacak Linux makineler atölye sonunda tamamen silinecektir__, öncesinde içerisindeki belgeleri yedeklemeniz gerekmektedir.
+* __Katılımcılara sağlanacak bulut üzerindeki Linux makineler atölye sonunda tamamen silinecektir__, öncesinde içerisindeki belgeleri yedeklemeniz gerekmektedir.
+* Atölyenin materyalleri İngilizce ve Türkçe hazırlanacaktır, etkinlik konuşma dili Türkçe olacaktır.
 * __Atölyeyi Şirin Saygılı düzenlemektedir, katılım koşulları, içerik vb. düzenleyenin görüşlerine ve planına göre hazırlanmıştır.__
 
 ## Eğitmen ve mentörler
 * [Şirin Saygılı](https://www.linkedin.com/in/sirinnes/) Prisync'in kurucu ortağı ve yazılım geliştirme yöneticisidir. İTÜ Bilgisayar Mühendisliği'nden lisans, Galatasaray Üniversitesi Bilgisayar Mühendisliği'nden yüksek lisans derecesi bulunmaktadır. Temel olarak ilgilendiği alanlar verinin elde edinilmesi (information retrieval), verinin işlenmesi ve bu verinin bilgiye dönüştürülmesidir. Çeşitli gönüllü kodlama etkinliklerinin organizasyonunda yer almıştır.
 * [Melek Kalyoncu](https://www.linkedin.com/in/melek-kalyoncu-66ba83b0/)
 * [Meltem Dizdar](https://www.linkedin.com/in/meltem-dizdar/)
+* [İlknur Tepe](https://www.linkedin.com/in/ilknurtepe/)
 
 ## Mekan
 * Atölye, [Prisync ofisinde](https://www.google.com/maps/search/Prisync,+Esentepe,+Kore+%C5%9Eehitleri+Cd.+No:34%2F3,+34394+%C5%9Ei%C5%9Fli%2F%C4%B0stanbul,+Turkey?hl=en) gerçekleştirilecektir.
 * __Açık adres:__ Esentepe Mah. Kore Şehitleri Cad. No:34/3 Şişli İSTANBUL
+* Etkinlik süresince çay, kahve ve öğle yemekleri Prisync tarafından sağlanacaktır.
 
