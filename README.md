@@ -1,3 +1,6 @@
+# Önemli Duyuru: 
+__Koronavirüs tedbirleri nedeniyle atölye ileri bir tarihe ertelenmiştir. Olası atölye tarihleri 16-17 Mayıs 2020 ya da 13-14 Haziran 2020'dir.__
+
 # Mini Linux Atölyesi 2020
 
 Atölyenin ana amacı, IDE'de yazılan kodun IDE dışında çalıştığı ortamı anlatmak ve katılımcıların atölye sonrası kendi Linux ortamlarını kendi kendilerine yönetmelerini sağlamaktır. Katılımcıların basit bir Linux makineyi gerçek ortam sunucusu haline getirebilmeleri hedeflenmektedir. Ayrıca, bulut üzerindeki makinelerde pratik yapılacağı için bulut sistemler için başlangıç olacaktır. 
@@ -12,11 +15,11 @@ Atölyenin ana amacı, IDE'de yazılan kodun IDE dışında çalıştığı orta
 * __Katılımcıların, içerisinde Linux işletim sistemi bulunan kendi bilgisayarlarını getirmeleri gerekmektedir. (MacOS makineler de olur.)__
 * Her katılımcıya özel sadece atölye süresi içinde kullanılabilecek, bulut üzerinde yer alan bir Linux makineye erişim verilecektir. (Yine de bilgisayarınızı getirmeniz gerekmektedir.)
 * __Atölyede her katılımcının pratik yapması zorunludur, her katılımcının her bir komutu çalıştırması sağlanacaktır. Bu yüzden, bilgisayarsız gelmeyi veya sadece dinlemeye gelmeyi düşünüyorsanız bu atölye size uygun olmayacaktır.__
-* __Atölye 28 Mart 2020 Cumartesi ve 29 Mart 2020 Pazar günlerinde yapılacaktır. Toplam 2 günlük bir etkinlik olacaktır, tüm derslere katılım zorunludur. Eğer hepsine gelemeyeceğinizi düşünüyorsanız bu etkinlik size uygun olmayacaktır.__
+* __~~Atölye 28 Mart 2020 Cumartesi ve 29 Mart 2020 Pazar günlerinde yapılacaktır.~~ Toplam 2 günlük bir etkinlik olacaktır, tüm derslere katılım zorunludur. Eğer hepsine gelemeyeceğinizi düşünüyorsanız bu etkinlik size uygun olmayacaktır.__
 
 ## Takvim
 
-| 28 Mart 2020 Cumartesi | 29 Mart 2020 Pazar |
+| ~~28 Mart 2020 Cumartesi~~ | ~~29 Mart 2020 Pazar~~|
 | :----------- | :----------- |
 | 10:00 - 10:45 Kayıt ve tanışma | 10:00 - 12:00 Atölye |
 | 11:00 - 13:00 Atölye | 12:00 - 13:00 Yemek arası |
